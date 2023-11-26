@@ -103,7 +103,7 @@ export const Join = () => {
         <div id='inputContainer'>
 
           <Typography variant="h5" gutterBottom>
-            <i>It takes two to </i><span id='brand'>Thango</span>
+            <i>It takes two to </i><span id='brand'>Love</span>
           </Typography>
           <br />
 
